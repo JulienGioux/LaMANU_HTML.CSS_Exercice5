@@ -1,0 +1,22 @@
+/* .spanRed {
+  color: red;
+}
+.spanGreen {
+  color: green;
+} 
+ .logoTitle {
+  border: 0px;
+}*/
+ 
+ a:link, a:visited {
+  color: (internal value);
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+a:link:active, a:visited:active {
+  color: (internal value);
+  cursor: progress;
+}
+
+
