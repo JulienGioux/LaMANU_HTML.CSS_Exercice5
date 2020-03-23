@@ -6,6 +6,9 @@ th, td {
   padding: 5px;
   text-align: left;
 }
+th {
+  text-align: center;
+}
 .tdFoot {
   text-align: center;
 }
